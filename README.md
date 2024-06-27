@@ -1,2 +1,2 @@
-# Simple-website
-kaya man
+# Petition-filing-dApp-on-Fuel-network
+This is a petitions dApp using the Sway programming language on the Fuel blockchain.!Fuel is an L2 blockchain that aims to provide low cost for transactions at a high speed. Fuel believes that modular blockchains are the future. It offers separate execution from consensus and availability of data–which increases the bandwidth capacity significantly. Fuel is supported by Blockchain Capital, Stratos, CoinFund, Spartan, and many more.
